@@ -3,6 +3,8 @@
 ## CPU | Raspberry Pi Pico
 https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
 
+Firmware: https://circuitpython.org/board/raspberry_pi_pico/
+
 Pinout Diagram
 
 <img width="718" alt="Screen Shot 2022-07-08 at 11 25 18 AM" src="https://user-images.githubusercontent.com/6970764/178049438-baa1260c-0dfe-49e1-8dfb-d6cc46720f99.png">
